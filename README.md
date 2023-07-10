@@ -15,7 +15,7 @@ This website offers a captivating and immersive travel experience, showcasing st
 * HTML5, CSS3: The site utilizes modern web technologies to create a clean and semantic structure, as well as engaging styling.
 * JavaScript: The inclusion of JavaScript enhances interactivity and enables the functionality of sliders and the full-page scroll.
 * Responsive Design: The site is designed with responsiveness in mind, ensuring optimal viewing across devices and screen sizes.
-* Sliders: JavaScript libraries or custom code can be used to create the sliders, providing an interactive and visually appealing experience.
+* Sliders: JavaScript library (Swiper.js) provide an interactive and visually appealing experience.
 * Reliability: Best practices for web development and testing are employed to ensure a reliable and stable user experience.
 
 **You can see the work on the link below.**
