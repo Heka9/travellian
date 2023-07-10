@@ -1,4 +1,4 @@
-# travellian
+# Travellian
 
 The project was created using a full-page scroll, gallery and a lot of sliders. 
 The website is responsive and reliable.
