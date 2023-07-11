@@ -4531,7 +4531,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item:not(.lg-zoomable).lg-co
   }
 
   .footer {
-    padding-bottom: 1.875rem;
+    padding-bottom: 3.75rem;
   }
 
   .content-footer__socials {
@@ -5324,15 +5324,15 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item:not(.lg-zoomable).lg-co
 }
 
 @media (min-width: 29.99875em) and (max-width: 90em) {
-@supports (padding-bottom: clamp( 1.875rem , -1.5622851607rem  +  11.458094623vw , 8.75rem )) {
+@supports (padding-bottom: clamp( 3.75rem , 1.2501562467rem  +  8.3331597258vw , 8.75rem )) {
     .footer {
-      padding-bottom: clamp( 1.875rem , -1.5622851607rem  +  11.458094623vw , 8.75rem );
+      padding-bottom: clamp( 3.75rem , 1.2501562467rem  +  8.3331597258vw , 8.75rem );
     }
 }
 
-@supports not (padding-bottom: clamp( 1.875rem , -1.5622851607rem  +  11.458094623vw , 8.75rem )) {
+@supports not (padding-bottom: clamp( 3.75rem , 1.2501562467rem  +  8.3331597258vw , 8.75rem )) {
     .footer {
-      padding-bottom: calc(1.875rem + 6.875 * (100vw - 29.99875rem) / 60.00125);
+      padding-bottom: calc(3.75rem + 5 * (100vw - 29.99875rem) / 60.00125);
     }
 }
 }
